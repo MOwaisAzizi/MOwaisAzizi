@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Owais+Azizi!;" />
 </h1>
@@ -30,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,tailwind,git,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,c,java,mysql,data stracture,algorithm" /><br>
 </div>
 
 <br/>
