@@ -4,13 +4,11 @@
 
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
-<br/>
 
 <div align="center">
  
  🔭 I’m currently studing Computer Science(Software Engineering)
- 
- 🌱 I’m currently learning backend development
+
 
  </div>
  
