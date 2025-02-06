@@ -10,7 +10,9 @@
 <div align="center">
  
  🔭 I’m currently studing Computer Science(Software Engineering)
+ 
  👩‍💻 I’m currently working on a chat app
+ 
  👨‍💻 I’m currently learning on backend development
 
  </div>
