@@ -1,7 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
+
 <a align="left" href="https://www.github.com/MOwaisAzizi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Owais+Azizi!;" />
