@@ -1,7 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
+<div>
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
 
 <a align="left" href="https://www.github.com/MOwaisAzizi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+</div>
 
 
 <h1 align="center">
@@ -35,7 +37,7 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 
  <hr/>
  
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<h2 align="center">⚒️ Languages-Frameworks ⚒️ </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,tailwind,git,github" />
@@ -52,6 +54,10 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <a  href="http://www.github.com/MOwaisAzizi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MOwaisAzizi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  
 <a  href="http://www.github.com/MOwaisAzizi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MOwaisAzizi&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="http://www.github.com/MOwaisAzizi">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MOwaisAzizi&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
      <hr/>
 
 <h2 align="center">Top Languages</h2>
