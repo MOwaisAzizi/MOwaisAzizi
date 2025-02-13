@@ -39,7 +39,6 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,tailwind,git,github" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,c,java,mysql" /><br>
 </div>
-
 <br/>
  <hr/>
 
@@ -53,13 +52,13 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <a  href="http://www.github.com/MOwaisAzizi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MOwaisAzizi&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a  href="https://github.com/MOwaisAzizi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOwaisAzizi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+ <hr/>
 <b >Top Repositories</b>
 
 <div  width="100%" align="center"><a href="https://github.com/MOwaisAzizi/Natours-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=Natours-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MOwaisAzizi/online-Chat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=online-Chat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+ <hr/>
 <br /><br /><br /><br /><br />
 
 <div align="center" width="100%" align="center"><a href="https://github.com/MOwaisAzizi/fast-react-pizza-V2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=fast-react-pizza-V2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MOwaisAzizi/Weather-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=Weather-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
-    
+     <hr/>
 </div>
