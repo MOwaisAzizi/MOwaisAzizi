@@ -1,3 +1,5 @@
+<a align="left" href="https://www.github.com/MOwaisAzizi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
 
 <h1 align="center">
