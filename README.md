@@ -43,6 +43,7 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <br/>
  <hr/>
 
+<div width="100%" align="center">
 <b align="center">My GitHub Stats</b>
 
 <a  href="http://www.github.com/MOwaisAzizi"><img src="https://github-readme-stats.vercel.app/api?username=MOwaisAzizi&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="MOwaisAzizi's GitHub stats" /></a>
@@ -60,3 +61,5 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <br /><br /><br /><br /><br />
 
 <div align="center" width="100%" align="center"><a href="https://github.com/MOwaisAzizi/fast-react-pizza-V2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=fast-react-pizza-V2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MOwaisAzizi/Weather-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=Weather-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+    
+</div>
