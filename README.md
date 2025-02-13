@@ -54,10 +54,6 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <a  href="http://www.github.com/MOwaisAzizi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MOwaisAzizi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  
 <a  href="http://www.github.com/MOwaisAzizi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MOwaisAzizi&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="http://www.github.com/MOwaisAzizi">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MOwaisAzizi&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
      <hr/>
 
 <h2 align="center">Top Languages</h2>
