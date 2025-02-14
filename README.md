@@ -2,7 +2,7 @@
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
 
 <a align="left" href="https://www.github.com/MOwaisAzizi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-the-badge&color=087f9a&labelColor=000000" /></a>
 </div>
 
 
@@ -51,7 +51,9 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 
 <a  href="http://www.github.com/MOwaisAzizi"><img src="https://github-readme-stats.vercel.app/api?username=MOwaisAzizi&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="MOwaisAzizi's GitHub stats" /></a>
 
-<a  href="http://www.github.com/MOwaisAzizi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MOwaisAzizi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/MOwaisAzizi">
+  <img src="https://streak-stats.demolab.com/?user=MOwaisAzizi&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
 <a  href="http://www.github.com/MOwaisAzizi"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MOwaisAzizi&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
      <hr/>
