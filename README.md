@@ -1,8 +1,8 @@
 <div>
     
-<a align="left" href="https://www.github.com/MOwaisAzizi" target="_blank" rel="noreferrer"><img
+<a align="right" href="https://www.github.com/MOwaisAzizi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-the-badge&color=087f9a&labelColor=000000" /></a>
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
 </div>
 
 
