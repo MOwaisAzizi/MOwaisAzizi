@@ -60,13 +60,6 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <!-- GitHub Stats (Matching Theme) -->
 <img src="https://github-readme-stats.vercel.app/api?username=MOwaisAzizi&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="MOwaisAzizi's GitHub Stats" />
 
-
-<a href="http://www.github.com/MOwaisAzizi">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOwaisAzizi&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-    <br/>
-     <hr/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOwaisAzizi&theme=default&show_icons=true&hide_border=true&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000" alt="MOwaisAzizi's GitHub Stats" />
  <br/>
  <hr/>
