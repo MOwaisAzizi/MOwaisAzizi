@@ -2,7 +2,7 @@
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MOwaisAzizi.MOwaisAzizi" />
     
 <a align="right" href="https://www.github.com/MOwaisAzizi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-the-badge&color=087f9a&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 </div>
 
@@ -67,8 +67,7 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
     <br/>
      <hr/>
 
-<h2 align="center">Top Languages</h2>
-<a href="https://github.com/MOwaisAzizi" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOwaisAzizi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MOwaisAzizi" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOwaisAzizi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" alt="Top Languages" /></a>
  <br/>
  <hr/>
 <h2 >Top Repositories</h2>
