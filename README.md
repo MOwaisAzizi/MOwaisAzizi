@@ -57,7 +57,7 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 </a>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOwaisAzizi&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=0891b2&text_color=ffffff&icon_color=0891b2&cache=0" alt="MOwaisAzizi's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MOwaisAzizi&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=0891b2&text_color=ffffff&icon_color=0891b2&cache=0&count_private=true" alt="MOwaisAzizi's GitHub Stats" />
  <hr/>
 <br/>
 
