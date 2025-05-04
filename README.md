@@ -64,11 +64,12 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOwaisAzizi&theme=default&show_icons=true&hide_border=true&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000" alt="MOwaisAzizi's GitHub Stats" />
  <br/>
  <hr/>
- 
+
+ <!--
 <h2 >Top Repositories</h2>
 
 <div width="100%" align="center"><a href="https://github.com/MOwaisAzizi/fast-react-pizza-V2" align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=fast-react-pizza-V2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MOwaisAzizi/Natours-app" align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=Natours-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br />
 
 <div width="100%" align="center"><a href="https://github.com/MOwaisAzizi/BankApplication" align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=BankApplication&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MOwaisAzizi/Online-Chat" align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MOwaisAzizi&repo=the-wild-aosis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
-
 </div>
+-->
