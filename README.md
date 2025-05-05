@@ -42,8 +42,8 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <h2 align="center">⚒️ Languages-Frameworks-tools ⚒️ </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase,java,c,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,tailwind,supabase,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,c,git,github" /><br>
 </div>
 <br/>
  <hr/>
