@@ -18,7 +18,9 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <div align="center">
  
  🔭 I’m currently studing Computer Science(Software Engineering)
+ 
  👩‍💻 I’m currently working on a weblog app
+ 
  👨‍💻 I’m currently learning on backend development
 
  </div>
