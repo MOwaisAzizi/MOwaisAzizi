@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 </h1>
 
 
-<h3 align="center">A passionate full-stack web developer from Afghanisan</h3>
+<h3 align="center">A passionate full-stack web developer from Afghanistan</h3>
 
 
 <div align="center">
