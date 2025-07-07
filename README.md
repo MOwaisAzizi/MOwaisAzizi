@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,tailwind,supabase,firebase" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,java,c,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,java,c,git,github" /><br>
 </div>
 <br/>
  <hr/>
