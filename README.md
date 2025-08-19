@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
  
  🔭 I’m currently studing Computer Science (Software Engineering)
  
- 👩‍💻 I’m currently working on a Restaurant app
+ 👩‍💻 I’m currently working on a Mizban app
  
  </div>
  
