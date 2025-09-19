@@ -8,7 +8,7 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=285&height=70&duration=3500&color=0891b2&lines=Hi+There!+👋;+I'm+Owais+Azizi!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=285&height=75&duration=3500&color=0891b2&lines=Hi+There!+👋;+I'm+Owais+Azizi!" />
 </h1>
 
 
