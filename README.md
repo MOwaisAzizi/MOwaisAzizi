@@ -12,16 +12,9 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 </h1>
 
 
-<h3 align="center">Software Engineer from Afghanistan</h3>
-
-
-<div align="center">
- 
- 🔭 I’m currently studing AI & ML Engineering
- 
- 👩‍💻 I’m currently working on a Mizban app
- 
- </div>
+<h3 align="center">
+Software Engineer | Full-Stack Developer | AI & ML Learner
+</h3>
  
 <div align="center"> 
   <a href="mailto:owaisazizi360@gmail.com">
@@ -73,7 +66,7 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <br/>
 
 
-<h2 align="center">🤖 AI & Machine Learning</h2>
+<h2 align="center">🤖 AI & ML</h2>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
@@ -116,11 +109,8 @@ src="https://img.shields.io/github/followers/MOwaisAzizi?logo=github&style=for-t
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Paypal-635BFF?style=for-the-badge&logo=paypal&logoColor=white" />
 
-
 <br/>
-
 <hr/>
-
 
 
 <div width="100%" align="center">
