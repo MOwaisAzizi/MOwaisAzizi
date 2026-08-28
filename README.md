@@ -111,19 +111,17 @@ Software Engineer | Full-Stack Developer | AI & ML Learner
     alt="GitHub Streak"
   />
 </a>
-
 <br><br>
 
 <!-- Stats + Languages -->
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=MOwaisAzizi&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=0891b2&text_color=ffffff&icon_color=0891b2"
+  src="https://github-stats-extended.vercel.app/api?username=MOwaisAzizi&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=0891b2&text_color=ffffff&icon_color=0891b2"
   alt="GitHub Stats"
 />
-
 <img
   width="40%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOwaisAzizi&layout=compact&hide_border=true&bg_color=000000&title_color=0891b2&text_color=ffffff&icon_color=0891b2"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=MOwaisAzizi&layout=compact&hide_border=true&bg_color=000000&title_color=0891b2&text_color=ffffff&icon_color=0891b2"
   alt="Top Languages"
 />
 
