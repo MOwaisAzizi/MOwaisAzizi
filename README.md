@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-Software Engineer | Full-Stack Developer | AI & ML Learner
+Software Engineer | Full-Stack Developer | Junior ML Engineer
 </h3>
  
 <div align="center"> 
